@@ -9,12 +9,11 @@
     },
     "description":"Listing of panda-nakami's vpm packages",
     "infoLink":{
-        "url":""https://pandanakami.github.io/vpm-package-list",
+        "url":"https://pandanakami.github.io/vpm-package-list",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "pandanakami/PandaVAT"
-    ],
-    "packages":[]
+    ]
 }
